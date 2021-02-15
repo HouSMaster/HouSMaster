@@ -1,9 +1,3 @@
 $(document).ready(function(){
-    $("#generate").fadeIn(1000);
+    $("#title").fadeIn(0);
 });
-
-function finished(){
-
-    $("#generate").fadeOut(function() {
-    });
-}
